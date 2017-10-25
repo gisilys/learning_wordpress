@@ -1,0 +1,38 @@
+/* This sets the background image of the page. Just replace the page id and the url of the background image */
+
+.page-id-57 {
+    background-image: url("http://localhost:8080/learning_wordpress/wp-content/uploads/2017/10/gaming-wallpaper-8551-8885-hd-wallpapers.jpg");
+   background-size: cover;
+}
+
+/* This makes the header transparent so that the background image shows through */
+
+.site-header {
+  background-color: transparent;
+}
+
+/* This removes the bottom border */
+
+.hentry {
+   
+    border-bottom: 0px solid rgba(0, 0, 0, 0);
+}
+
+
+
+/* This sets the border of the shortcodes ultimate button */
+
+.sfbutton  {
+  
+  border-color: white !important;
+  
+}
+
+
+/* This removes the site footer */
+
+/*.site-footer {
+  
+  display: none;
+  
+}*/
